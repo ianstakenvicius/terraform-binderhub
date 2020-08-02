@@ -12,7 +12,7 @@
 2. Source your project openrc file : `source _project_-openrsh.sh`.
 
 
-## DNS Providers
+## Domain Name Providers
 
 ### CloudFlare
 
@@ -42,6 +42,6 @@ To tear down the cluster, from the `my_cluster` folder, call: `terraform destroy
 ## TODO
 
 - Support others cloud providers (AWS, GCP, Azure, ...)
-- Support others DNS providers
+- Support others domain name providers
 - User authentification
 - Storage management
